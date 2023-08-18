@@ -29,7 +29,7 @@ To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the required libraries and dependencies mentioned in the `requirements.txt` file.
-3. Run the Jupyter Notebook files in the `notebooks` directory to execute the code.
+3. Run the Jupyter Notebook file `house-price-prediction.ipynb`  to execute the code.
 
 ## Data Preprocessing
 
