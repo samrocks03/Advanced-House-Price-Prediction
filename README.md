@@ -51,6 +51,13 @@ Feature selection techniques are applied to narrow down the set of features used
 
 The trained Random Forest Regressor model, which performed best in our evaluations, is saved for future use. This saved model can be loaded and used to make predictions on new data.
 
+## Demo of API Testing: 
+
+
+https://github.com/samrocks03/Advanced-House-Price-Prediction/assets/85547877/20ef9bc4-6706-4584-a0ad-94ad39006e1a
+
+
+
 ## Conclusion
 
 This project showcases the process of predicting house prices using machine learning techniques. By following the steps outlined in this repository, you can gain insights into data preprocessing, feature engineering, model evaluation, and feature selection. Feel free to explore the Jupyter Notebook files to dive deeper into the code and understand the project in more detail.
